@@ -1,2 +1,2 @@
 # Navodaya Alumnus website
- we will creste a website for connecting navodayans
+ we will create a website for connecting navodayans
